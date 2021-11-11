@@ -144,6 +144,16 @@ section#slider {
     max-width: 450px;
 
 }
+/*FOTOS SIN SLIDER*/
+main section#fotos-sin-slider img{
+    width: 32%;
+    margin: 5px;
+}
+main.no-galery {
+    margin-left: 1%;
+    margin-top: 60px;
+
+}
 /*FOOTER*/
 
 footer {
